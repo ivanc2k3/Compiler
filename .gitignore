@@ -1,0 +1,65 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.venv/
+venv/
+.env
+.env.*
+*.egg-info/
+dist/
+build/
+
+# General IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# macOS specific files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+public_test_data/
+*.tab.c
+*.tab.h
+*.yy.c
+in
+out
+run.sh
+*.in
+*.txt
+*.yy.cpp
